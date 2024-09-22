@@ -8,8 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=Pigeonlover&style=flat-square&color=blue" alt="view_counter"/>
 </div>
 
+<div id="codewars" align="center">
+  <img src="https://www.codewars.com/users/Pigeonlover/badges/large"/>
+  <h3>---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------</h3>
+</div>
 
----
 
 
 ## Hello, I'm Pigeonlover
